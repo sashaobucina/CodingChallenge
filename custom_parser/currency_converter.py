@@ -100,7 +100,7 @@ if __name__ == "__main__":
     parser.add_argument("-i", "--input", type=str, help="The CSV file data to read in")
     parser.add_argument("-o", "--output", type=str, help="The CSV file data to write out")
     parser.add_argument("-f", "--french_locale",
-                        help="Whether to convert to French locale, converts to US locale if not provided",
+                        help="Whether to convert to US locale, converts to French locale if not provided",
                         action="store_false")
     args = parser.parse_args()
 
