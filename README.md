@@ -18,7 +18,7 @@ optional arguments:<br />
   * -o OUTPUT, --output OUTPUT<br />
     * The CSV file data to write out
   * -f, --french_locale
-    * Whether to convert to French locale, converts to US locale if not provided<br />
+    * Whether to convert to US locale, converts to French locale if not provided<br />
   
 
 # Example usage
