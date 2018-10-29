@@ -1,0 +1,19 @@
+Feed Name,Price Per Month,First Seen,Last Updated,Remote Name,Local Name
+newsmonster,44.88,1012608000,1483820220,/mirror/nm/newsmonster.tgz,/r/newsmonster/latest.tar.gz
+microtech,33.71,1355314332,1483820232,/dl/microtech-feed.tar.gz,/r/microtech/latest.tar.gz
+fastniche,506.60,252460800,1483820247,/site/fastniche.zip,/r/fastniche/latest.tar.gz
+pivotsense,4.12,1451606400,1483820006,/dl area/pivotsense.tgz,/r/fastniche/latest.tar.gz
+woldenheim,11.32,1486000922,1483817526,/woldenheim/db-new.zip,/r/woldenheim/latest.tar.gz
+newsmonster,44.66,1012608000,1483820220,/mirror/nm/newsmonster.tgz,/r/newsmonster/latest.tar.gz
+input,'234.59',,,,,1486000922,1483817526,/input/db-new.zip,/r/input/latest.tar.gz
+output,23.83,1451606400,1483820006,/dl area/output.tgz,/r/output/latest.tar.gz
+feedname,7632.32,1486000922,1483817526,/feedname/db-new.zip,/r/feedname/latest.tar.gz
+newssource,32.99,1486000922,1483820220,/mirror/nm/newssource.tgz,/r/newssource/latest.tar.gz
+something,55.15,1486000922,1483817526,/something/db-new.zip,/r/something/latest.tar.gz
+test,11.32,1486000922,1483817526,/test/db-new.zip,/r/test/latest.tar.gz
+woldenheim,98.23,1486000922,1483817526,/woldenheim/db-new.zip,/r/woldenheim/latest.tar.gz
+feedvendor,"10.11",1486000922,1483817526,/feedvendor/db-new.zip,/r/feedvendor/latest.tar.gz
+feed2,,21.80,,1486000922,1483817526,/feed2/db-new.zip,/r/feed2/latest.tar.gz
+"vendor',54.03,1486000922,1483817526,/vendor/db-new.zip,/r/vendor/latest.tar.gz,,
+mount,42.00,1486000922,1483817526,/mount/db-new.zip,/r/mount/latest.tar.gz
+spark,161.32,1486000922,1483817526,/spark/db-new.zip,/r/spark/latest.tar.gz

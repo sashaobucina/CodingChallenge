@@ -1,0 +1,5 @@
+Feed Name,Price Per Month,First Seen,Last Updated,Remote Name,Local Name
+proper,€35,90,1012608000,1483820220,/mirror/nm/proper.tgz,/r/proper/latest.tar.gz
+,extracommas,€26,97,,1355314332,1483820232,,,,/dl/extracommas-feed.tar.gz,/r/extracommas/latest.tar.gz,,
+typos,"€405,28",252460800,1483820247,/site/typos.zip,'/r/typos/latest.tar.gz'
+proper2,€9,06,1486000922,1483817526,/proper2/db-new.zip,/r/proper2/latest.tar.gz
