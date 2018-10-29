@@ -26,7 +26,7 @@ Run "python3 custom_parser.py 2 0.8 < ../datasets/us_format/data.csv > ../datase
 
 OR
 
-Run custom_parser.py through an IDE of yuor choice specifying proper command line arguments
+Run custom_parser.py through an IDE of your choice specifying proper command line arguments
 
 # Requirements
 Please run the program using pyhton3.x as to provide ASCII support for the "€" symbol
