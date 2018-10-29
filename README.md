@@ -2,9 +2,9 @@
 This program converts given CSV files to output prices in the proper country locale.
 
 # Help
-Run the command "python3 custom_parser --help" in your terminal to get a description on how to use the program
+Run the command "python3 currency_converter --help" in your terminal to get a description on how to use the program
 
-usage: custom_parser.py [-h] [-i INPUT] [-o OUTPUT] [-f] field multiplier
+usage: currency_converter.py [-h] [-i INPUT] [-o OUTPUT] [-f] field multiplier
 
 positional arguments:<br />
   * field                 The column number that holds the price<br />
@@ -22,11 +22,11 @@ optional arguments:<br />
   
 
 # Example usage
-Run "python3 custom_parser.py 2 0.8 < ../datasets/us_format/data.csv > ../datasets/french_format/data-fr.csv" in the custom_parser directory
+Run "python3 currency_converter.py 2 0.8 < ../datasets/us_format/data.csv > ../datasets/french_format/data-fr.csv" in the custom_parser directory
 
 OR
 
-Run custom_parser.py through an IDE of your choice specifying proper command line arguments
+Run currency_converter.py through an IDE of your choice specifying proper command line arguments
 
 # Requirements
 Please run the program using pyhton3.x as to provide ASCII support for the "€" symbol
