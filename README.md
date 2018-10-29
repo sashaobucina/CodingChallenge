@@ -6,17 +6,20 @@ Run the command "python3 custom_parser --help" in your terminal to get a descrip
 
 usage: custom_parser.py [-h] [-i INPUT] [-o OUTPUT] [-f] field multiplier
 
-positional arguments:
-  field                 The column number that holds the price
-  multiplier            The exchange rate at which to convert the price
+positional arguments:<br />
+  * field                 The column number that holds the price<br />
+  * multiplier            The exchange rate at which to convert the price<br />
 
-optional arguments:
-  -h, --help            show this help message and exit
-  -i INPUT, --input INPUT
-                        The CSV file data to read in
-  -o OUTPUT, --output OUTPUT
-                        The CSV file data to write out
-  -f, --french_locale   Whether to convert to French locale, converts to US locale if not provided
+optional arguments:<br />
+  * -h, --help
+    * show this help message and exit<br />
+  * -i INPUT, --input INPUT<br />
+    * The CSV file data to read in
+  * -o OUTPUT, --output OUTPUT<br />
+    * The CSV file data to write out
+  * -f, --french_locale
+    * Whether to convert to French locale, converts to US locale if not provided<br />
+  
 
 # Example usage
 Run "python3 custom_parser.py 2 0.8 < ../datasets/us_format/data.csv > ../datasets/french_format/data-fr.csv" in the custom_parser directory
